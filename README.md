@@ -4,7 +4,7 @@
 Enthusiastic individual with a passion for learning, and a keen interest in Data analysis and mobile app development. 
 
 ## Skills:
-💻 Data analysis & Python - Pandas, Numpy, Matplotlib, Seaborn | 📱 React Native | Flutter
+💻 Data analysis & Python - Pandas, Numpy, Matplotlib, Seaborn | 📱 Flutter
 
 - 🔭 I’m currently working on News app using Flutter 
 - 🌱 I’m currently learning React Native  
